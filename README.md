@@ -11,7 +11,7 @@ an app for people/vendors that cooks and wants to prep/sell homemade meals for p
 - cooks/vendors would be able to publish their profiles/products
 
 ### team
-* Dan [@dzagar88](https://github.com/dzagar88)
+* Dan [@dzagar88](https://github.com/dzagar88) 🐱‍👤
 * Jose [@pepeboricua](https://github.com/pepeboricua)
 * Mailinh [@mlinhho](https://github.com/mlinhho)
 
@@ -20,17 +20,16 @@ an app for people/vendors that cooks and wants to prep/sell homemade meals for p
 
 ----
 
-## Donald's lotto 🎱
-an app for people to choose 6, 12, or 21 numbers out of 60 and participate for three prizes for getting 6, 5 or 4 numbers out of 6 that Master Donald will draw live on studio.
+## help me out 🤕
+an app for people that needs a hand with something and people that need money and is willing to help (maybe it makes sense to also use "reputational" currency).
 
-- player can buy a ticket choosing 6, 12, or 21 numbers (staff could buy a ticket for players)
-- admin can upload a video and register results for a draw
-- staff will register prize transfers or payments for winners
-- tickets will have a detail view for users to see if it's a winner
+- someone wants to post a help-me-out ticket because they need help
+- someone wants to help and takes the ticket
+- considers pay methods & tariffs
 
 ### team
 * Donald [@donducci](https://github.com/donducci)
-* Jay [@](https://github.com)
+* Jay [@](https://github.com) 🐱‍👤
 * Sheila [@ronaldinep](https://github.com/ronaldinep)
 
 * Kyle [@kylesk22](https://github.com/kylesk22)
@@ -75,15 +74,6 @@ an app for school kid parents to meet and gather with other parents in the same 
 
 ----
 
-## help me out 🤕
-an app for people that needs a hand with something and people that need money and is willing to help (maybe it makes sense to also use "reputational" currency).
-
-- someone wants to post a help-me-out ticket because they need help
-- someone wants to help and takes the ticket
-- considers pay methods & tariffs
-
-----
-
 ## nanny market 👶🏼
 an app for parents to find/hire/rate their baby sitting staff and baby sitters to promote their service and get hired.
 
@@ -112,3 +102,12 @@ an app to manage (acquisition, inventory, assigment, operative log) equipment, c
 - build reports for events and inventory
 - have communication between some actors in different fire stations
 
+----
+
+## Donald's lotto 🎱
+an app for people to choose 6, 12, or 21 numbers out of 60 and participate for three prizes for getting 6, 5 or 4 numbers out of 6 that Master Donald will draw live on studio.
+
+- player can buy a ticket choosing 6, 12, or 21 numbers (staff could buy a ticket for players)
+- admin can upload a video and register results for a draw
+- staff will register prize transfers or payments for winners
+- tickets will have a detail view for users to see if it's a winner
