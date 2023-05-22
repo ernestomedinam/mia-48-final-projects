@@ -29,12 +29,12 @@ an app for people to choose 6, 12, or 21 numbers out of 60 and participate for t
 - tickets will have a detail view for users to see if it's a winner
 
 ### team
-* Donald (@donducci)(https://github.com/donducci)
-* Jay (@)(https://github.com)
-* Sheila (@ronaldinep)(https://github.com/ronaldinep)
+* Donald [@donducci](https://github.com/donducci)
+* Jay [@](https://github.com)
+* Sheila [@ronaldinep](https://github.com/ronaldinep)
 
-* Kyle (@kylesk22)(https://github.com/kylesk22)
-* Ernesto (@ernestomedinam)(https://github.com/ernestomedinam)
+* Kyle [@kylesk22](https://github.com/kylesk22)
+* Ernesto [@ernestomedinam](https://github.com/ernestomedinam)
 
 ----
 
