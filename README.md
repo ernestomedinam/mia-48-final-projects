@@ -11,12 +11,12 @@ an app for people/vendors that cooks and wants to prep/sell homemade meals for p
 - cooks/vendors would be able to publish their profiles/products
 
 ### team
-* Dan (@dzagar88)
-* Jose (@pepeboricua)
-* Mailinh (@mlinhho)
+* Dan [@dzagar88](https://github.com/dzagar88)
+* Jose [@pepeboricua](https://github.com/pepeboricua)
+* Mailinh [@mlinhho](https://github.com/mlinhho)
 
-* Kyle (@kylesk22)
-* Ernesto (@ernestomedinam)
+* Kyle [@kylesk22](https://github.com/kylesk22)
+* Ernesto [@ernestomedinam](https://github.com/ernestomedinam)
 
 ----
 
@@ -29,12 +29,12 @@ an app for people to choose 6, 12, or 21 numbers out of 60 and participate for t
 - tickets will have a detail view for users to see if it's a winner
 
 ### team
-* Donald (@donducci)
-* Jay (@)
-* Sheila (@ronaldinep)
+* Donald (@donducci)(https://github.com/donducci)
+* Jay (@)(https://github.com)
+* Sheila (@ronaldinep)(https://github.com/ronaldinep)
 
-* Kyle (@kylesk22)
-* Ernesto (@ernestomedinam)
+* Kyle (@kylesk22)(https://github.com/kylesk22)
+* Ernesto (@ernestomedinam)(https://github.com/ernestomedinam)
 
 ----
 
@@ -71,7 +71,7 @@ an app for school kid parents to meet and gather with other parents in the same 
 
 - parents would sign up and provide kids and school related data
 - parents would be able to gather in groups and plan study dates, play dates and so on
-- consider how to provide proof about these parents really having kids in such school
+- consider how to provide proof about these parents really having kids in such school (maybe having teachers create parents group for a class and inviting parents)
 
 ----
 
