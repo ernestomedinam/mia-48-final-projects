@@ -29,7 +29,7 @@ an app for people that needs a hand with something and people that need money an
 
 ### team
 * Donald [@donducci](https://github.com/donducci)
-* Jay [@](https://github.com) 🐱‍👤
+* Jay [@jnorestin](https://github.com/jnorestin) 🐱‍👤
 * Sheila [@ronaldinep](https://github.com/ronaldinep)
 
 * Kyle [@kylesk22](https://github.com/kylesk22)
