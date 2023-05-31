@@ -7,7 +7,7 @@ final projects ideas & teams for mia-48 part time 4Geeks class.
 ## prep me a meal 👩🏼‍🍳
 an app for people/vendors that cooks and wants to prep/sell homemade meals for people in the community. it may integrate with delivery apps in the future.
 
-**ctrl + [repo](https://github.com/4geeksacademy/dzagar88-homeChef) to open in new tab.
+**ctrl + [repo](https://github.com/4geeksacademy/dzagar88-homeChef) to open in new tab.**
 
 - people would search based on location, dietary preferences, allergies, and so on
 - cooks/vendors would be able to publish their profiles/products
@@ -25,7 +25,7 @@ an app for people/vendors that cooks and wants to prep/sell homemade meals for p
 ## help me out 🤕 
 an app for people that needs a hand with something and people that need money and is willing to help (maybe it makes sense to also use "reputational" currency).
 
-**ctrl + [repo](https://github.com/4geeksacademy/jnorestin-the-help) to open in new tab.
+**ctrl + [repo](https://github.com/4geeksacademy/jnorestin-the-help) to open in new tab.**
 
 - someone wants to post a help-me-out ticket because they need help
 - someone wants to help and takes the ticket
